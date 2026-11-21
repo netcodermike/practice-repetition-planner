@@ -1,0 +1,14 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "plan": {
+      "scales": 8,
+      "phrasing": 6,
+      "timing": 3
+    },
+    "total": 17
+  }
+}
